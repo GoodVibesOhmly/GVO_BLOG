@@ -52,7 +52,7 @@ You can view a demo of this project by visiting [m1guelpf.blog](https://m1guelpf
 
 You can deploy this project to Vercel (and load your own publication!) by clicking the button below:
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https%3A%2F%2Fgithub.com%2Fm1guelpf%2Fmirror-next&env=NEXT_PUBLIC_MIRROR_SUBDOMAIN,NEXT_PUBLIC_INFURA_ID&envDescription=The%20Mirror%20subdomain%20for%20the%20publication%20you%20want%20to%20load%2C%20and%20a%20free%20Infura%20project%20ID.&project-name=mirror-next&repo-name=mirror-next)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https%3A%2F%2Fgithub.com%2Fm1guelpf%2Fmirror-next&env=NEXT_PUBLIC_AUTHOR_ENS,NEXT_PUBLIC_INFURA_ID&envDescription=The%20ENS%20for%20the%20publication%20you%20want%20to%20load%2C%20and%20a%20free%20Infura%20project%20ID.&project-name=mirror-next&repo-name=mirror-next)
 
 Once it's ready, you should be able to attach your custom domain from the Vercel settings page.
 
@@ -60,7 +60,7 @@ Once it's ready, you should be able to attach your custom domain from the Vercel
 
 **Is this decentralized?**
 
-Kind of. While I'm pulling the article listing and contents from the Arweave chain directly, the publication and contributor details come from Mirror's APIs.
+Kind of. While I'm pulling the entry listing and contents from the Arweave chain directly, the publication details come from Mirror's APIs.
 
 **Why did you make this?**
 
@@ -68,7 +68,7 @@ I like playing with stuff :). I really like Mirror's design, so I decided to cre
 
 **Who are you?**
 
-:wave: Hi! I'm [Miguel Piedrafita](https://twitter.com/m1guelpf), an 18-year-old indie maker, getting his toes deep into crypto. You can follow my journey and all the little things I make on the way [on Twitter](https://twitter.com/m1guelpf).
+:wave: Hi! I'm [Miguel Piedrafita](https://twitter.com/m1guelpf), an 20-year-old indie maker, getting his toes deep into crypto. You can follow my journey and all the little things I make on the way [on Twitter](https://twitter.com/m1guelpf).
 
 **I have another question**
 
